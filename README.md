@@ -21,9 +21,7 @@ Become a MSc. SCADA Graduate
 
 Skill up!!! Cloud and Critical Infrastructure Cybersecurity
 
-Become a better Leader
-Travel more and have more fun 
-Iron Man fitness Challenge (Mini-Iron Man challenge) 
+Become a better Leader, Travel more and have more fun , Iron Man fitness Challenge (Mini-Iron Man challenge) 
 
 
 👩🏾‍💻 2022 Certification Goals (FIRST QUARTER)
