@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AWS Security Specialty and Cisco CyberOps ...
 - 💞️ I’m looking to collaborate on Cloud security exercises / HandsOn, Critical Infrastructure Hardening & Peneteration Testing
 - 📫 How to reach me https://www.linkedin.com/in/kolawole-oyekanmi-ts-sci-70357a1a/...
+- 📞 Get in touch: View my resume
 
 <!---
 collarwole/collarwole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
