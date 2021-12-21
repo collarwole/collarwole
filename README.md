@@ -18,7 +18,7 @@ Certifications 🎓  | CompTIA Security+, Certified Ethical Hacker (CEHv10)| Cer
 
 👩🏾‍💻 2022 Goals
 
-Become a MSc. SCADA Graduate
+Become a MSc. SCADA Cybersecurity Graduate (85% Done)
 
 Skill up!!! Cloud and Critical Infrastructure Cybersecurity
 
@@ -30,7 +30,6 @@ Become a better Leader, Travel more and have more fun , Iron Man fitness Challen
  AWS Certified Security Specialty | AWS Certified Solutions Architect Retake | Google Associate Cloud Engineer | CySA+ 002 | Cisco Cyber Ops Associate
  
  👩🏾‍💻 2022 Certification Goals (SECOND QUARTER)
- Become CCSP Certified 
- SC-200 Certified 
+ Become ISC2 CCSP Certified | SC-200 Certified 
  
  Summer Bike Riding (Iron Man Challenge) 
