@@ -17,6 +17,7 @@ Tools💻: Offensive Techniques, Python, Cisco IOS, Metasploit, Shodan.io, AWS I
 Certifications 🎓  | CompTIA Security+, Certified Ethical Hacker (CEHv10)| Certified Network Defender C|NDA, ITILv4, Azure Fundamentals, Azure Security Engineer, AWS Cloud Practitioner
 
 👩🏾‍💻 2022 Goals
+
 Become a MSc. SCADA Graduate
 
 Skill up!!! Cloud and Critical Infrastructure Cybersecurity
