@@ -9,7 +9,8 @@ collarwole/collarwole is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-Obviously my military work are classified but my Knowledge portfolio after work are all personal growth 
+Obviously my military work are classified but my Knowledge portfolio after work are all personal growth
+
 Tools💻: Offensive Techniques, Python, Cisco IOS, Metasploit, Shodan.io, AWS Inspector, AWS Guarduty
 
 Certifications 🎓  | CompTIA Security+, Certified Ethical Hacker (CEHv10)| Certified Network Defender C|NDA, ITILv4, Azure Fundamentals, Azure Security Engineer, AWS Cloud Practitioner
