@@ -35,16 +35,4 @@ Become a better Leader, Travel more and have more fun , Iron Man fitness Challen
  Summer Bike Riding (Iron Man Challenge) 
  
  My Technical Skills:
-Python 
-JSON
-AWS 
-
-GCP
-
-Puppet Terraform Packer Consul Vault
-
-Git
-
-Linux Mac OS Ubuntu
-
-Hadoop Spark Hive Splunk
+Python Ruby Shell Script Scala
