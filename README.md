@@ -34,5 +34,3 @@ Become a better Leader, Travel more and have more fun , Iron Man fitness Challen
  
  Summer Bike Riding (Iron Man Challenge) 
  
- My Technical Skills:
-Python Ruby Shell Script Scala
