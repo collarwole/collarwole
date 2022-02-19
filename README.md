@@ -18,7 +18,7 @@ Certifications 🎓  | CompTIA Security+, Certified Ethical Hacker (CEHv10)| Cer
 
 👩🏾‍💻 2022 Goals
 
-Become a MSc. SCADA Cybersecurity Graduate (85% Done)
+Become a MSc. SCADA Cybersecurity Graduate (90% Done)
 
 Skill up!!! Cloud and Critical Infrastructure Cybersecurity
 
