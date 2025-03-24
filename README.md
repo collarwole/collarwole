@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @collarwole
-- 👀 I have background in SCADA Cybersecurity, Cloud Security and Incident Response ...
-- 🌱 I’m currently learning AWS Security Specialty and Cisco CyberOps ...
-- 💞️ I’m looking to collaborate on Cloud security exercises / HandsOn, Critical Infrastructure Hardening & Peneteration Testing
+- 👀 I have background in Operation Technology Cybersecurity, Security Engineering Cloud Security and Incident Response ...
+- 🌱 I’m currently skilling with SANS Institute Cyber Defense Graduate Certificate Program ...
+- 💞️ I’m looking to collaborate on Advanced Continuous Monitoring, ML Ops Cloud security exercises / HandsOn, Critical Infrastructure Hardening & Peneteration Testing
 - 📫 How to reach me https://www.linkedin.com/in/kolawole-oyekanmi-70357a1a
 - 📞 Get in touch: View my resume
 
@@ -18,25 +18,11 @@ SIEM & EDR Tools:  Splunk Enterprise Security, Crowdstrike and QRadar
 
 Certifications 🎓  | CISSP , CCSK , CompTIA Security+, Certified Ethical Hacker (CEHv10)| Certified Network Defender C|NDA, ITILv4, Azure Fundamentals, Azure Security Engineer, AWS Cloud Practitioner
 
-👩🏾‍💻 2024 - 2025 Goals - SANs Management Leadership Graduate Certificate 
-
-👩🏾‍💻 2023 - Improving SIEM engineering and helping client better their Cybersecurity environment both in IT and OT 
-
-👩🏾‍💻 2022 Goals
-
-Become a MSc. SCADA Cybersecurity Graduate (90% Done) - Completed 
+👩🏾‍💻 2025 - 2026 Goals - SANs Cyber Defense Leadership Graduate Certificate 
 
 Skill up!!! Cloud and Critical Infrastructure Cybersecurity
 
 Become a better Leader, Travel more and have more fun , Iron Man fitness Challenge (Mini-Iron Man challenge) 
 
 
-👩🏾‍💻 2022 Certification Goals (FIRST QUARTER)
 
- AWS Certified Security Specialty | AWS Certified Solutions Architect Retake | Google Associate Cloud Engineer | CySA+ 002 | Cisco Cyber Ops Associate
- 
- 👩🏾‍💻 2022 Certification Goals (SECOND QUARTER)
- Become ISC2 CCSP Certified | SC-200 Certified 
- 
- Summer Bike Riding (Iron Man Challenge) 
- 
