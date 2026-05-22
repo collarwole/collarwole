@@ -9,11 +9,12 @@ SIEM & EDR Tools:  Splunk Enterprise Security, Crowdstrike and QRadar
 
 Certifications 🎓  | CISSP , AAISM, CCSK , CompTIA Security+, Certified Ethical Hacker (CEHv10)| Certified Network Defender C|NDA, ITILv4, Azure Fundamentals, Azure Security Engineer, AWS Cloud Practitioner
 
-👩🏾‍💻 2026 Goals - Codex Claude Code/Co-work, Trusted Advisory Cyber, OpDaaS technologies Securing AI Pipelines on Enterprise and Critical Infrastucture
+👩🏾‍💻 2026 Goals - Codex Claude, Code/Co-work, Trusted Advisory Cyber, OpDaaS technologies Securing AI Pipelines on Enterprise and Critical Infrastucture
 
 👩🏾‍💻 2024 - 2025 Goals - SANs Management Leadership Graduate Certificate 
 
 👩🏾‍💻 2023 - Improving SIEM engineering and helping client better their Cybersecurity environment both in IT and OT 
 
+👩🏾‍💻 2015 - To present - Active Duty and National Guard Cyber Operations: Scaling classified networks, defensive and offensive cyber capabilities on DoDIN and DoD Operational Technologies.
 
 Skill up!!! Cloud, Critical Infrastructure Cybersecurity, AI Stacks and Security Architect
