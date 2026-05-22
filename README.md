@@ -1,28 +1,36 @@
-- 👋 Hi, I’m @collarwole
-- 👀 I have background in Operation Technology Cybersecurity, Security Engineering Cloud Security and Incident Response ...
-- 🌱 I’m currently skilling with SANS Institute Cyber Defense Graduate Certificate Program ...
-- 💞️ I’m looking to collaborate on Advanced Continuous Monitoring, ML Ops Cloud security exercises / HandsOn, Critical Infrastructure Hardening & Peneteration Testing
-- 📫 How to reach me https://www.linkedin.com/in/kolawole-oyekanmi-70357a1a
-- 📞 Get in touch: View my resume
+# OT Modernization MCP Server
 
-<!---
-collarwole/collarwole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Production-oriented MCP server for Operational Technology (OT) modernization that keeps **legacy compatibility**, **safety guardrails**, and **human-in-the-loop controls** as first-class architecture requirements.
 
-Obviously my military work are classified but my Knowledge portfolio after work are all personal growth
+## Core capabilities
+- Normalized OT asset inventory for AI/model context.
+- Legacy-to-modern protocol transition recommendations.
+- Safety-gated control intent creation (no direct actuation).
+- Human approval/rejection workflow for control intents.
+- Auditable JSONL intent lifecycle logging.
 
-Tools💻: Offensive Techniques, Python, Cisco IOS, Metasploit, Shodan.io, AWS Inspector, AWS Guarduty, volatility, Ansible, Tenable,
+## Project files
+- `ot_mcp_server.py` — MCP server implementation.
+- `DESIGN.md` — SDLC and AI architecture guidance.
+- `tests/test_ot_mcp_server.py` — policy and approval workflow tests.
+- `requirements.txt` — runtime and test dependencies.
 
-SIEM & EDR Tools:  Splunk Enterprise Security, Crowdstrike and QRadar
+## Quickstart
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python ot_mcp_server.py
+```
 
-Certifications 🎓  | CISSP , CCSK , CompTIA Security+, Certified Ethical Hacker (CEHv10)| Certified Network Defender C|NDA, ITILv4, Azure Fundamentals, Azure Security Engineer, AWS Cloud Practitioner
+## Safety posture
+- All control requests are modeled as intents and policy-validated.
+- Offline/maintenance assets are blocked from control operations.
+- Change-ticket and operator identity are required for control intents.
+- Human approval is expected before execution in plant systems.
 
-👩🏾‍💻 2025 - 2026 Goals - SANs Cyber Defense Leadership Graduate Certificate 
-
-Skill up!!! Cloud and Critical Infrastructure Cybersecurity
-
-Become a better Leader, Travel more and have more fun , Iron Man fitness Challenge (Mini-Iron Man challenge) 
-
-
-
+## Testing
+```bash
+python -m py_compile ot_mcp_server.py
+pytest -q
+```
